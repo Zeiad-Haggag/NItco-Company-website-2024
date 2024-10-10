@@ -24,6 +24,14 @@ This is a highly professional company website for **Nitco**, featuring extensive
 2. Open `index.html` in any browser to view the website.
 3. Navigate through the homepage to experience the slider, animations, and smooth transitions powered by Sass-enhanced CSS.
 
+## Demo
+
+Check out the live demo [here](https://zeiad-haggag.github.io/NItco-Company-website-2024/).
+
+## Screenshots
+
+![Home Page ](./assets/screenshot.png)
+
 ## Watch the Demo
 
 Here is a demo of the project:
